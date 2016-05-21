@@ -6,8 +6,8 @@ This is a collection of guides, tools and tips to use in Ubuntu.
 <br/>
 
 ## Table of contents
-1. [Install Nodejs](/#install-nodejs)
-2. [Install VS Code](/#install-visual-studio-code)
+1. [Install Nodejs](/README.md#install-nodejs)
+2. [Install VS Code](/README.md#install-visual-studio-code)
 
 
 ### Install Nodejs
